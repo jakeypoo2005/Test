@@ -1,0 +1,5 @@
+name: Test
+version: 1.0
+description: Blows blocks randomly via TNT explosions.
+author: jakeypoo2005
+main: me.jakeypoo2005.test.FallingBlocks
